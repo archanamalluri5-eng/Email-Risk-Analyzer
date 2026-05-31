@@ -20,3 +20,4 @@ Email Risk Analyzer is a Python-based cybersecurity project that analyzes email 
 
 ## Author
 Archana
+<img width="1291" height="756" alt="email_risk_analyzer" src="https://github.com/user-attachments/assets/e6f3a1df-d9fa-4972-a101-bf7add7f8f80" />
